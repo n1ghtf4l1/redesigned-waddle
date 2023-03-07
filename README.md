@@ -1,2 +1,3 @@
-# redesigned-waddle
-Line Follower Robot Design Simutation on Proteus
+##### redesigned-waddle
+
+# **Line Follower Robot Design Simutation on Proteus**
